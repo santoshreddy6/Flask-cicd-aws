@@ -122,5 +122,5 @@ terraform destroy -var="ecr_image_url=placeholder"
 
 ## 👨‍💻 Author
 
-**Santosh Reddy**
-B.Tech CSE — Aspiring DevOps / Cloud Engineer
+**U Santosh Reddy**
+B.Tech CSE — DevOps / Cloud Engineer
